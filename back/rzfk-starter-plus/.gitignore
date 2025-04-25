@@ -1,0 +1,13 @@
+##
+.git
+.svn
+## ide
+**/.idea
+*.iml
+
+## backend
+**/target
+**/logs
+
+## front
+**/*.lock

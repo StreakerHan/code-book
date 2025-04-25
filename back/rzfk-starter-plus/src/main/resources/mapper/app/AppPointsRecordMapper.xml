@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzfk.app.mapper.AppPointsRecordMapper">
+
+    <resultMap type="com.rzfk.app.domain.AppPointsRecord" id="AppPointsRecordResult">
+        <result property="id" column="id"/>
+        <result property="createBy" column="create_by"/>
+        <result property="createTime" column="create_time"/>
+        <result property="beforePoint" column="before_point"/>
+        <result property="content" column="content"/>
+        <result property="memberId" column="member_id"/>
+        <result property="memberName" column="member_name"/>
+        <result property="point" column="point"/>
+        <result property="pointType" column="point_type"/>
+        <result property="variablePoint" column="variable_point"/>
+    </resultMap>
+
+
+</mapper>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzfk.app.mapper.AppBookCategoryMapper">
+
+    <resultMap type="com.rzfk.app.domain.AppBookCategory" id="AppBookCategoryResult">
+        <result property="id" column="id"/>
+        <result property="name" column="name"/>
+        <result property="parentId" column="parent_id"/>
+        <result property="img" column="img"/>
+        <result property="descb" column="descb"/>
+        <result property="href" column="href"/>
+        <result property="level" column="level"/>
+    </resultMap>
+
+
+</mapper>

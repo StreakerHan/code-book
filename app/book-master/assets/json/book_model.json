@@ -1,0 +1,117 @@
+{
+  "total": "4325",
+  "rows": [
+    {
+      "id": "1621408050449616896",
+      "name": "微信小程序官方开发文档(全) - 20210305",
+      "img": "https://static.sitestack.cn/projects/miniprogram-guide-20210305/uploads/202103/166975568a2752f3.png/cover",
+      "href": "/books/miniprogram-guide-20210305",
+      "readHref": "/read/miniprogram-guide-20210305/697ff23c614d0ad6.md",
+      "tags": "微信小程序,小程序开发指南,小程序框架,小程序组件,小程序API,",
+      "descb": "微信小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。本手册整理于2021年3月份，内容包含微信小程序开发指南、微信小程序框架、微信小程序组件、微信小程序API、微信小程序服务端文档、微信小程序开飞工具、微信小程序云开发以及微信小程序扩展能力等文档。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:38"
+    },
+    {
+      "id": "1621408052613877760",
+      "name": "微信小程序入门教程",
+      "img": "https://static.sitestack.cn/projects/miniprogram-tutorial/uploads/201902/15850f6f713a6263.png/cover",
+      "href": "/books/miniprogram-tutorial",
+      "readHref": "/read/miniprogram-tutorial/README.md",
+      "tags": "入门教程,小程序,微信,",
+      "descb": "微信小程序是腾讯于2017年1月9日推出的一种不需要下载安装即可在微信平台上使用的应用，主要提供给企业、政府、媒体、其他组织或个人的开发者在微信平台上提供服务。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:39"
+    },
+    {
+      "id": "1621408056611049472",
+      "name": "微信小程序开发指南(201912)",
+      "img": "https://static.sitestack.cn/projects/miniprogram-guide/uploads/201912/15dd27ed40c646e4.jpg/cover",
+      "href": "/books/miniprogram-guide",
+      "readHref": "/read/miniprogram-guide/6d3dce44bc44c852.md",
+      "tags": "微信小程序,",
+      "descb": "小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。本章分主题的介绍了小程序的开发语言、框架、能力、调试等内容，帮助开发者快速全面的了解小程序开发的方方面面。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:40"
+    },
+    {
+      "id": "1621408060276871168",
+      "name": "微信小程序云开发文档(201912)",
+      "img": "https://static.sitestack.cn/projects/wxcloud-201912/uploads/201912/15dd9e86f065440a.jpg/cover",
+      "href": "/books/wxcloud-201912",
+      "readHref": "/read/wxcloud-201912/e2108d633224f31f%e5%9f%ba%e7%a1%80.md",
+      "tags": "微信小程序,云开发,",
+      "descb": "开发者可以使用云开发开发微信小程序、小游戏，无需搭建服务器，即可使用云端能力。云开发为开发者提供完整的原生云端支持和微信服务支持，弱化后端和运维概念，无需搭建服务器，使用平台提供的 API 进行核心业务开发，即可实现快速上线和迭代，同时这一能力，同开发者已经使用的云服务相互兼容，并不互斥。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:41"
+    },
+    {
+      "id": "1621408065482002432",
+      "name": "微信小程序API文档(201912)",
+      "img": "https://static.sitestack.cn/projects/miniprogram-api/uploads/201912/15dd2d6e8ad3c384.png/cover",
+      "href": "/books/miniprogram-api",
+      "readHref": "/read/miniprogram-api/%e5%9f%ba%e7%a1%80.md",
+      "tags": "微信小程序,小程序API,",
+      "descb": "小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:42"
+    },
+    {
+      "id": "1621408075074375680",
+      "name": "Taro v3.2 教程",
+      "img": "https://static.sitestack.cn/projects/taro-3.2-zh/uploads/202108/169c8ddaee85548b.png/cover",
+      "href": "/books/taro-3.2-zh",
+      "readHref": "/read/taro-3.2-zh/%e6%96%87%e6%a1%a3.md",
+      "tags": "Taro,react,vue,",
+      "descb": "Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发 微信 / 京东 / 百度 / 支付宝 / 字节跳动 / QQ 小程序 / H5 / RN 等应用。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:44"
+    },
+    {
+      "id": "1621408088479371264",
+      "name": "微信小程序组件文档(201912)",
+      "img": "https://static.sitestack.cn/projects/miniprogram-component/uploads/201912/15dd288e6bfe8733.jpg/cover",
+      "href": "/books/miniprogram-component",
+      "readHref": "/read/miniprogram-component/view.md",
+      "tags": "微信小程序,小程序组件,",
+      "descb": "小程序是一种新的开放能力，开发者可以快速地开发一个小程序。小程序可以在微信内被便捷地获取和传播，同时具有出色的使用体验。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:47"
+    },
+    {
+      "id": "1621408091138560000",
+      "name": "微信小程序工具文档(201912)",
+      "img": "https://static.sitestack.cn/projects/weixin-devtools-201912/uploads/201912/15dd9d63a073aacf.png/cover",
+      "href": "/books/weixin-devtools-201912",
+      "readHref": "/read/weixin-devtools-201912/0927c01a5baa360a.md",
+      "tags": "微信小程序,小程序工具,",
+      "descb": "为了帮助开发者简单和高效地开发和调试微信小程序，我们在原有的公众号网页调试工具的基础上，推出了全新的 微信开发者工具，集成了公众号网页调试和小程序调试两种开发模式。",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:48"
+    },
+    {
+      "id": "1621408103931187200",
+      "name": "微信小程序扩展能力(201912)",
+      "img": "https://static.sitestack.cn/projects/miniprogram-extended/uploads/201912/15ddee5789f9ee92.png/cover",
+      "href": "/books/miniprogram-extended",
+      "readHref": "/read/miniprogram-extended/weui.md",
+      "tags": "微信小程序,WeUI,微信,",
+      "descb": "微信小程序的相关扩展功能介绍，如WeUI、TypeScript 和 Promise 等",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:51"
+    },
+    {
+      "id": "1621408108893048832",
+      "name": "微信小程序框架参考文档(201912)",
+      "img": "https://static.sitestack.cn/projects/miniprogram-framework/uploads/201912/15dd2800e5a2ef6b.png/cover",
+      "href": "/books/miniprogram-framework",
+      "readHref": "/read/miniprogram-framework/configuration.md",
+      "tags": "微信小程序,WXML,WXS,",
+      "descb": "本章为小程序框架配置、框架接口、WXML 和 WXS 等的参考文档.",
+      "type": "1621330256264826880",
+      "createTime": "2023-02-03 15:19:52"
+    }
+  ],
+  "code": 200,
+  "msg": "查询成功"
+}

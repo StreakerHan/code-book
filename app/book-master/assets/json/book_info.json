@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "id": "1621408050449616896",
+    "name": "微信小程序官方开发文档(全)资料 - 20210305",
+    "img": "https://static.sitestack.cn/projects/miniprogram-guide-20210305/uploads/202103/166975568a2752f3.png/cover",
+    "href": "/books/miniprogram-guide-20210305",
+    "readHref": "/read/miniprogram-guide-20210305/697ff23c614d0ad6.md",
+    "tags": "微信小程序,小程序开发指南,小程序框架,小程序组件,小程序API,",
+    "descb": "微信小程序提供了一个简单、高效的应用开发框架和丰富的组件及API，帮助开发者在微信中开发具有原生 APP 体验的服务。本手册整理于2021年3月份，内容包含微信小程序开发指南、微信小程序框架、微信小程序组件、微信小程序API、微信小程序服务端文档、微信小程序开飞工具、微信小程序云开发以及微信小程序扩展能力等文档。",
+    "type": "1621330256264826880",
+    "createTime": "2023-02-03 15:19:38",
+    "typeName": null,
+    "chapters": "9",
+    "collect": "0"
+  }
+}

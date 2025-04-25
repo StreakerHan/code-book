@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzfk.app.mapper.AppUserMapper">
+
+    <resultMap type="com.rzfk.app.domain.AppUser" id="AppUserResult">
+        <result property="id" column="id"/>
+        <result property="nickname" column="nickname"/>
+        <result property="password" column="password"/>
+        <result property="name" column="name"/>
+        <result property="socialUid" column="social_uid"/>
+        <result property="socialToken" column="social_token"/>
+        <result property="mobile" column="mobile"/>
+        <result property="email" column="email"/>
+        <result property="clientId" column="client_id"/>
+        <result property="pushToken" column="push_token"/>
+        <result property="sex" column="sex"/>
+        <result property="source" column="source"/>
+        <result property="socialSource" column="social_source"/>
+        <result property="avatar" column="avatar"/>
+        <result property="province" column="province"/>
+        <result property="city" column="city"/>
+        <result property="area" column="area"/>
+        <result property="address" column="address"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="lastLoginTime" column="last_login_time"/>
+        <result property="birth" column="birth"/>
+        <result property="inviteCode" column="invite_code"/>
+        <result property="isSign" column="is_sign"/>
+        <result property="status" column="status"/>
+        <result property="exp" column="exp"/>
+        <result property="idcard" column="idcard"/>
+        <result property="sign" column="sign"/>
+    </resultMap>
+
+
+</mapper>

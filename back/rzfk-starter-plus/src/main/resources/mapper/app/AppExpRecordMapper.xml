@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzfk.app.mapper.AppExpRecordMapper">
+
+    <resultMap type="com.rzfk.app.domain.AppExpRecord" id="AppExpRecordResult">
+        <result property="id" column="id"/>
+        <result property="userId" column="user_id"/>
+        <result property="preExp" column="pre_exp"/>
+        <result property="changeExp" column="change_exp"/>
+        <result property="afterExp" column="after_exp"/>
+        <result property="createTime" column="create_time"/>
+        <result property="type" column="type"/>
+    </resultMap>
+
+
+</mapper>

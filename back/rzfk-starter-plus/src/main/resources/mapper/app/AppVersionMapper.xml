@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzfk.app.mapper.AppVersionMapper">
+
+    <resultMap type="com.rzfk.app.domain.AppVersion" id="AppVersionResult">
+        <result property="id" column="id"/>
+        <result property="createBy" column="create_by"/>
+        <result property="createTime" column="create_time"/>
+        <result property="content" column="content"/>
+        <result property="downloadUrl" column="download_url"/>
+        <result property="forceUpdate" column="force_update"/>
+        <result property="type" column="type"/>
+        <result property="version" column="version"/>
+        <result property="versionName" column="version_name"/>
+        <result property="versionUpdateDate" column="version_update_date"/>
+    </resultMap>
+
+
+</mapper>
